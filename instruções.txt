@@ -1,0 +1,13 @@
+arquivo pubspec.yaml: habilitar assets pra permitir arquivos externos
+
+site pub.dev site de componentes
+
+---------------
+pubspec.yaml: 
+flat_list: ^0.1.14
+assets:
+    - lib/recursos/json/feed.json
+------------------------------------
+
+diferença
+statefull e stateless
